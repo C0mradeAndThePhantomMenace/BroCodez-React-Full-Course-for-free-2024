@@ -45,3 +45,6 @@ npm i
 npm run dev
 ```
 
+### Card 
+
+https://youtu.be/CgkZ7MvWUAA?t=1257
