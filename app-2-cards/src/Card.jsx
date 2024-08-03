@@ -9,7 +9,7 @@ const imgX ="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34A
 const Card = () => {
     return (
         <div className="card">
-            <img src={imgX} alt="" />
+            <img className="card-image" src={imgX} alt="" />
             <h3>Love 4 All</h3>
             <p>I share love for all</p>
         </div>

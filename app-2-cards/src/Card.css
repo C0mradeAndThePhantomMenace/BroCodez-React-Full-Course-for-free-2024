@@ -10,3 +10,12 @@
     max-width: 250px;
     display: inline-block;
 }
+
+.card .card-image {
+    border: 1px solid green;
+    padding: 5px;
+    max-width: 60%;
+    height: auto;
+    border-radius: 20%;
+    margin-bottom: 10px;
+}
