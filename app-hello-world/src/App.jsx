@@ -1,14 +1,18 @@
 import './App.css'
 
-af
+const Header = () => <header>Header should be here</header>
+const Main = () => <main>Main should be here</main>
+const Footer = () => <footer>Footer should be here</footer>
+
+
 const App = () => {
   return (
     <>
-      <header>Header should be here</header>
+      <Header></Header>
       <hr />
-      <main>Main shoud be here</main>
+      <Main></Main>
       <hr />
-      <footer>Footer should be here</footer>
+      <Footer></Footer>
     </>
   )
 }
