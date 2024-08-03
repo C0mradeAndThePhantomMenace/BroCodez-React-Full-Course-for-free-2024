@@ -1,9 +1,11 @@
 import './App.css'
 
 import Header from './Header'
+import MainBody from './MainBody'
+import Footer from './Footer'
 
-const Main = () => <main>Main should be here</main>
-const Footer = () => <footer>Footer should be here</footer>
+
+{/*  */}
 
 
 const App = () => {
@@ -11,7 +13,7 @@ const App = () => {
     <>
       <Header></Header>
       <hr />
-      <Main></Main>
+      <MainBody></MainBody>
       <hr />
       <Footer></Footer>
     </>
