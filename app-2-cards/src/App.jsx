@@ -8,6 +8,21 @@ const MainBody = () => (
   <>
     <h2>MainBody</h2>
     <Card></Card>
+    <Card></Card>
+    <Card></Card>
+    <Card></Card>
+    <Card></Card>
+    <Card></Card>
+    <Card></Card>
+    <Card></Card>
+    <Card></Card>
+    <Card></Card>
+    <Card></Card>
+    <Card></Card>
+    <Card></Card>
+    <Card></Card>
+    <Card></Card>
+    <Card></Card>
   </>
 )
 const Footer = () => <h4>Footer &copy; app-2-cards</h4>
@@ -19,7 +34,7 @@ const App = () => {
     <>
       <Header></Header>
       <hr />
-      <MainBody></MainBody>
+      <MainBody ></MainBody>
 
       <hr />
       <Footer></Footer>
