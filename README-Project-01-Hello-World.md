@@ -20,3 +20,6 @@ npm run dev
 
 ## ES7+ React/Redux/React-Native snippets
 
+## Refactor App.jsx
+
+## Update Header.jsx, Adding nav bar
