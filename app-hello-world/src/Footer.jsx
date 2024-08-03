@@ -6,7 +6,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <footer>Footer should be here</footer>
+    <footer>&copy; app-hello-world</footer>
   )
 }
 
