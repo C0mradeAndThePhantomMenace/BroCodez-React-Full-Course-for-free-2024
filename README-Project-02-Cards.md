@@ -15,3 +15,8 @@ cd app-2-cards
 npm i
 npm run dev
 ```
+## Clean app code
+
+## ES7+ React/Redux/React-Native snippets
+
+
